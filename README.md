@@ -6,7 +6,8 @@ We've arranged these online contests for our juniors.
 # Contest -1 
 Link: https://www.hackerrank.com/contests/hex-clan-001
 
-এগুলো পড়ে তোমরা কোড করে Hackerrank এ সাবমিট করবে। এরপর যদি না পারও আবারও জানাবে নিজেদের কোড সহ। 
+ Editorial পড়ে তোমরা যারা contest এ solve করতে পারনি তারা কোড করে Hackerrank এ সাবমিট করবে। এরপর যদি না পারও আবারও জানাবে নিজেদের কোড সহ। 
+ 
 # Problem Welcome to NWU by Promila Ghosh (Monty71) :
  প্রথম প্রব্লেমটা ডেসক্রিপশনে যা বলা টা প্রিন্ট করতে হবে। বুঝতে কারও সমস্যা থাকলে  আমাকে নক দিও। জাস্ট "Welcome CSE Spring-19 Batch” লাইনটা প্রিন্ট করতে হবে।
 
