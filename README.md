@@ -3,7 +3,8 @@ We've arranged these online contests for our juniors.
 
 ![bitmap](https://user-images.githubusercontent.com/39271244/53487410-b9128100-3ab5-11e9-8b17-6b1a01cae626.png)
 
-# Contest -1 Link: https://www.hackerrank.com/contests/hex-clan-001
+# Contest -1 
+Link: https://www.hackerrank.com/contests/hex-clan-001
 
 এগুলো পড়ে তোমরা কোড করে Hackerrank এ সাবমিট করবে। এরপর যদি না পারও আবারও জানাবে নিজেদের কোড সহ। 
 # Problem Welcome to NWU by Promila Ghosh (Monty71) :
